@@ -90,19 +90,19 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 *   The official [Elastic Documentation](https://www.elastic.co/guide/index.html), which is an exceptional resource.
 *   The countless authors, instructors, and community members whose shared knowledge makes learning possible.
 
-![01-Basics](E:\Proj\ElasticSearch-Theo\01-Basics.png)
+![01-Basics](01-Basics.png)
 
-![02-Core-Elasticsearch](E:\Proj\ElasticSearch-Theo\02-Core-Elasticsearch.png)
+![02-Core-Elasticsearch](02-Core-Elasticsearch.png)
 
-![03-Kibana](E:\Proj\ElasticSearch-Theo\03-Kibana.png)
+![03-Kibana](03-Kibana.png)
 
-![04-ELK-Stack](E:\Proj\ElasticSearch-Theo\04-ELK-Stack.png)
+![04-ELK-Stack](04-ELK-Stack.png)
 
-![05-Use-Cases](E:\Proj\ElasticSearch-Theo\05-Use-Cases.png)
+![05-Use-Cases](05-Use-Cases.png)
 
-![06-Advanced](E:\Proj\ElasticSearch-Theo\06-Advanced.png)
+![06-Advanced](06-Advanced.png)
 
-![07-Hands-On](E:\Proj\ElasticSearch-Theo\07-Hands-On.png)
+![07-Hands-On](07-Hands-On.png)
 
 
 
