@@ -90,10 +90,6 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 *   The official [Elastic Documentation](https://www.elastic.co/guide/index.html), which is an exceptional resource.
 *   The countless authors, instructors, and community members whose shared knowledge makes learning possible.
 
-
-
-
-
 ![01-Basics](E:\Proj\ElasticSearch-Theo\01-Basics.png)
 
 ![02-Core-Elasticsearch](E:\Proj\ElasticSearch-Theo\02-Core-Elasticsearch.png)
